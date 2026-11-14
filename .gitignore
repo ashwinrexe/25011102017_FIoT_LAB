@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Keil
+*.uvguix.*
+*.bak
+*.lst
+*.obj
+*.abs
+*.hex
+*.map
+*.m51
+*.plg
+*.iex
+*.o
+*.d
+
+# STM32 build outputs
+Debug/
+Release/
+.build/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# IDE metadata
+.idea/
+.vscode/
